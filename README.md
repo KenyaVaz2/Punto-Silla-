@@ -10,7 +10,7 @@ Un **punto silla** es un elemento que cumple:
 ## 🚀 Características
 - 📊 **Generación de matrices** aleatorias o con un punto silla definido.
 - 🔍 **Búsqueda de un punto silla** o **todos los puntos silla**.
-- ⏱ **Análisis experimental** con conteo de operaciones (`ct`).
+- ⏱ **Análisis experimental** con conteo de operaciones (`ct`). Con el fin de que se observe graficamente su complejidad en este caso **LINEAL** por lo cual los datos arrojados en el archivo CSV se pueden abrir desde EXCEL y meter a un programa de graficas. 
 - 💾 **Salida a archivo CSV** para análisis posterior.
 - 🖥 **Impresión de la matriz** en consola.
 
